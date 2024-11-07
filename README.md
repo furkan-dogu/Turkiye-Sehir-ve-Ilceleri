@@ -11,6 +11,16 @@ JSON dosyasında her şehir için aşağıdaki bilgiler bulunmaktadır:
 - **Telefon Kodu**: Şehrin telefon alan kodu
 - **İlçeler**: Şehirdeki ilçelerin adları ve ilçe kodları
 
+## Kullanım
+
+JSON dosyasını projelerinizde kullanarak Türkiye'nin şehir ve ilçe bilgilerine kolayca ulaşabilirsiniz.
+
+```
+<script src="https://gist.github.com/furkan-dogu/f89c04b05068b4d2b6462dc981115446.js"></script>
+```
+
+Bu script ile de projenize dahil edebilirsiniz.
+
 ## Not
 
 Türkiye'nin şehir ve ilçe verilerini güncel tutmaya çalışıyorum. Ancak, eksik veya hatalı bilgiyle karşılaşırsanız lütfen beni bilgilendirin.
